@@ -1,4 +1,4 @@
-<h3>40923218</h3>
+<h1>Final Project</h1>
 <p>我這次抽到的CAD是Inventor和NX 12.0</p>
 <p>NX12.0之前有用過，但是Inventor是我第一次使用，所以我還有很多地方不熟悉，明年六月要考立體丙級要加緊練習。</p>
 <hr>
@@ -13,49 +13,12 @@
 <p></p>
 <p>第一軸模擬:</p>
 <p></p>
-<script>// <![CDATA[
-var winkVideoData = {
-  dataVersion: 1,
-  frameRate: 10,
-  buttonFrameLength: 5,
-  buttonFrameOffset: 2,
-  frameStops: {
-  },
-};
-// ]]></script>
-<div class="winkVideoContainerClass"><video width="1866" height="1080" autoplay="autoplay" class="winkVideoClass" data-dirname="./../cmsimde/static" data-mce-fragment="1" data-varname="winkVideoData" loop="loop" muted="" playsinline="">
-<source src="https://40923218.github.io/cad2021_hw/downloads/First%20axis.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass">&nbsp;</div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-</div>
-</div>
+<p><video width="560" height="315" controls="controls">
+<source src="https://40923218.github.io/cad2021_hw/downloads/First%20axis.mp4" type="video/mp4" /></video></p>
 <p>二、三軸模擬:</p>
 <p></p>
-<script>// <![CDATA[
-var winkVideoData = {
-  dataVersion: 1,
-  frameRate: 10,
-  buttonFrameLength: 5,
-  buttonFrameOffset: 2,
-  frameStops: {
-  },
-};
-// ]]></script>
-<div class="winkVideoContainerClass"><video width="1920" height="1080" autoplay="autoplay" class="winkVideoClass" data-dirname="./../cmsimde/static" data-mce-fragment="1" data-varname="winkVideoData" loop="loop" muted="" playsinline="">
-<source src="https://40923218.github.io/cad2021_hw/downloads/%E6%A8%A1%E6%93%AC.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
-<p></p>
+<p><video width="560" height="315" controls="controls">
+<source src="https://40923218.github.io/cad2021_hw/downloads/%E6%A8%A1%E6%93%AC.mp4" type="video/mp4" /></video></p>
 <hr>
 <p>接下來連桿模擬，因為還沒了解怎麼將結構轉入，所以這是動手將各零件位置拉到定位後再進行模擬。</p>
 <p>繪圖過程(INV):</p>
@@ -80,7 +43,11 @@ var winkVideoData = {
 <p>轉入過程and組立</p>
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/Y_V1xHcg88s" title="YouTube video player"></iframe></p>
 <p>模擬過程</p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/72XD9VgCbs8" title="YouTube video player"></iframe></p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/wMlw2eTw67Q" title="YouTube video player"></iframe></p>
+<p>轉入過程and組立(延伸題)</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/h6s4xeGzLz4" title="YouTube video player"></iframe></p>
+<p>模擬過程(延伸題)</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/tcf4_VcnDO4" title="YouTube video player"></iframe></p>
 <p>本次考試心得:</p>
 <p>這次的題目，最大的問題就是我不知道如何轉入，經過摸索之後，我已經習的這塊最後的拼圖了，接著連結前面所學的，繪圖、組立、轉入、模擬串聯起來，謝謝老師，我學會這項軟體的基礎了</p>
 <hr>
